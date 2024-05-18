@@ -1,7 +1,7 @@
-# shary-selenium-java
+# mercans-test-shaharyar
 
 **Project Tools:** Selenium, Cucumber, TestNG, Allure report
-This project is an automation testing framework for the **SAUCE DEMO** application that uses Java as the programming language and combines several popular tools and technologies for automated testing, including Selenium, Cucumber, TestNG, and Allure Reporting.
+This project is an automation testing framework for the **ESS Leaves** application that uses Java as the programming language and combines several popular tools and technologies for automated testing, including Selenium, Cucumber, TestNG, and Allure Reporting.
 
 ## Table of Contents
 
